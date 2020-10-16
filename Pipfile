@@ -10,6 +10,9 @@ flask = "*"
 flask-sqlalchemy = "*"
 tweepy = "*"
 python-dotenv = "*"
+google-cloud-pubsub = "*"
+future = "*"
+apache-beam = "*"
 
 [requires]
 python_version = "3.8"
